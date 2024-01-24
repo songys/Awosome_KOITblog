@@ -10,7 +10,9 @@ https://www.skelterlabs.com/blog
 https://datadoctorblog.com/           
 https://blog.abacus.ai/                
 https://devocean.sk.com/blog/             
-https://blog.sionic.ai/                    
+https://blog.sionic.ai/       
+
+#LG AI연구원 기술 블로그 : https://lgresearch.ai/blog     
                    
 ## 인상적인 블로깅
 라이너 팀의 신규 입사자 온보딩에 대한 블로깅
