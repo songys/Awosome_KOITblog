@@ -4,6 +4,7 @@
                      
 
 ## 국내 기술 블로그 모음
+https://medium.com/yanoljacloud-tech
 https://www.thedatahunt.com/tech-review                
 https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd              
 https://www.skelterlabs.com/blog                
